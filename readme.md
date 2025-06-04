@@ -1,4 +1,3 @@
 # Projekt Hollymovies
 
 ## Sylabus
-
